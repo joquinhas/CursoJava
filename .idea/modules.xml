@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CursoJava.iml" filepath="$PROJECT_DIR$/CursoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03-Introducao-a-linguagem-java/_03-Introducao-a-linguagem-java.iml" filepath="$PROJECT_DIR$/_03-Introducao-a-linguagem-java/_03-Introducao-a-linguagem-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05-estrutura-condicional/_05-estrutura-condicional.iml" filepath="$PROJECT_DIR$/_05-estrutura-condicional/_05-estrutura-condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06-estrutura-repetitiva/_06-estrutura-repetitiva.iml" filepath="$PROJECT_DIR$/_06-estrutura-repetitiva/_06-estrutura-repetitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08-introducao-a-programacao-orientada-objetos/_08-introducao-a-programacao-orientada-objetos.iml" filepath="$PROJECT_DIR$/_08-introducao-a-programacao-orientada-objetos/_08-introducao-a-programacao-orientada-objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09-construtores-palavra-this-sobrecarga-encapsulamento/_09-construtores-palavra-this-sobrecarga-encapsulamento.iml" filepath="$PROJECT_DIR$/_09-construtores-palavra-this-sobrecarga-encapsulamento/_09-construtores-palavra-this-sobrecarga-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10-comportamento-de-memoria-arrays-listas/_10-comportamento-de-memoria-arrays-listas.iml" filepath="$PROJECT_DIR$/_10-comportamento-de-memoria-arrays-listas/_10-comportamento-de-memoria-arrays-listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Exercicios/_Exercicios.iml" filepath="$PROJECT_DIR$/_Exercicios/_Exercicios.iml" />
+    </modules>
+  </component>
+</project>
